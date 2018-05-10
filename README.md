@@ -1,6 +1,6 @@
 # css-Framework
 
-##This framework is desigh to make it easy develop a Website.
+## This framework is desigh to make it easy develop a Website.
 
 ## Features
 - It is an ´CSS´ file.
